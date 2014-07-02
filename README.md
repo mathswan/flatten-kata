@@ -1,7 +1,7 @@
 flatten-kata
 ============
 
-A small exercise using TDD and Scala Map by Matthew
+A small exercise using TDD and Scala by Matthew
 
 Satisfy the pre-determined tests by writting test code then production code
 
